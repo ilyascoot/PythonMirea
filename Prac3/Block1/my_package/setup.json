@@ -1,8 +1,0 @@
-{
-    "name": "my_package",
-    "author": "Morozov_Ilya",
-    "modules": [
-        "math_operations",
-        "string_operations"
-    ]
-}
